@@ -165,7 +165,7 @@ header.masthead {
   text-align: center;
   color: white; }
   header.masthead:before {
-    background-color: rgba(0, 0, 0, 0.7); }
+    background-color: rgba(216, 17, 17, 0.7); }
   header.masthead img {
     display: block;
     margin: 0 auto 20px; }
